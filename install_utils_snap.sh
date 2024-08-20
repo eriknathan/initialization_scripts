@@ -48,3 +48,8 @@ echo "--------------------------------------------"
 sudo snap install brave
 sleep 1
 
+echo "--------------------------------------------"
+echo ">> Instalando o Dbeaver"
+echo "--------------------------------------------"
+sudo snap install dbeaver-ce
+sleep 1
